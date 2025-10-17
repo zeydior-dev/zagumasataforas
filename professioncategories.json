@@ -1,0 +1,2 @@
+ { "endpoint": "professioncategories", "data":
+[{"Id":1,"Name":"Combat","Links":{"$Url":"/professioncategories/1"}},{"Id":2,"Name":"Mindforce","Links":{"$Url":"/professioncategories/2"}},{"Id":3,"Name":"Resource Collecting","Links":{"$Url":"/professioncategories/3"}},{"Id":4,"Name":"Manufacturing","Links":{"$Url":"/professioncategories/4"}},{"Id":5,"Name":"Miscellaneous","Links":{"$Url":"/professioncategories/5"}}]} 
