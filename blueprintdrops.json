@@ -1,0 +1,2 @@
+ { "endpoint": "blueprintdrops", "data":
+[{"Source":{"Id":1006,"ItemId":6001006,"Name":"Explosive Projectiles Blueprint 1","Links":{"$Url":"/blueprints/1006"}},"Drop":{"Id":3411,"ItemId":6003411,"Name":"Welding Wire Blueprint (L)","Links":{"$Url":"/blueprints/3411"}}},{"Source":{"Id":1006,"ItemId":6001006,"Name":"Explosive Projectiles Blueprint 1","Links":{"$Url":"/blueprints/1006"}},"Drop":{"Id":487,"ItemId":6000487,"Name":"Basic Bearings Blueprint","Links":{"$Url":"/blueprints/487"}}}]} 
